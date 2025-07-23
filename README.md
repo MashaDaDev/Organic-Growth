@@ -19,14 +19,15 @@ Of course it is always up to you whether or not you should advertise, but statin
 
 ***Because talking about your bot mouth to mouth is better since its more controlled than bot lists since its just you talking about it, bot developers have full control on how to grow bots, if they have tools like logging which prevents their bot from being added to said below ghost, bot farm and such servers.***
 
-How would you track whether your bot has grown and is growing organically ? Well you can implement logging system in a private channel and log guild joins and leave them if they're sus guilds. for which you can get help from your library or via the relvant Discord logs.
+How would you track whether your bot has grown and is growing organically ? Well you can implement logging system in a private channel and log guild joins and leave them if they're suspicious. You could receive help for this from the library you're using or via the relevant Discord documentation.
 
 
 **What is a bot farm and ghost server?**
 
 A bot farm is server(s) with dozens of bots in it. 
 
-*ghost server is a server that is there only to "help" you qualify for bot verification, where the bot is not actively used.*
+*ghost server is a server that is there only to "help" you qualify for bot verification, it is a place where the bot is not actively used.*
+**__it is important to note that Discord no longer utilizes such blocking from verification and since 2020 it has become much more easier, but you still should not use ghost servers.__**
 
 
 
