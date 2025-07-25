@@ -1,6 +1,6 @@
-DO NOTE THAT I DO NOT WORK FOR DISCORD NOR DO I REPRESENT THEM, **I DON'T HOLD RESPONSIBILITY IF YOU GET REJECTED DUE TO OTHER METRICS.**
+# NOTE THAT I DO NOT WORK FOR DISCORD NOR DO I REPRESENT THEM.
 
-Read the whole thing, I put some tips too :). 
+ 
 
 # Organic-Growth
 
@@ -22,7 +22,7 @@ Of course it is always up to you whether or not you should advertise, but statin
 How would you track whether your bot has grown and is growing organically ? Well you can implement logging system in a private channel and log guild joins and leave them if they're suspicious. You could receive help for this from the library you're using or via the relevant Discord documentation.
 
 
-**What is a bot farm and ghost server?**
+# **What is a bot farm and ghost server?**
 
 A bot farm is server(s) with dozens of bots in it. 
 
@@ -31,7 +31,7 @@ A bot farm is server(s) with dozens of bots in it.
 
 
 
-**Some Tips**
+# **Some Tips**
 A lot of users, like 50%, will just kick the bot out after trying it out. You **can** lower this percentage by providing the best user experience and, most importantly, an easy setup. This is the most important factor in my opinion.
 
 Have ```application commands```, like `/info user` and similar . I've noticed a lot of users still mainly use pr to get the invite of the application and add it into their servers.
